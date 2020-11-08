@@ -9,8 +9,7 @@ Our creation for this year's Cutie Hack will be an app that is loosely based off
  # Topics include:
     * Motivational Quotes
     * At Home Hobbies
-    * Movies
-    * Memes
+    * Movies 
     * Physical Activities
 
 Hope you all enjoy! The app is hosted at: https://guptaraghav29.github.io/CutieHack2020
