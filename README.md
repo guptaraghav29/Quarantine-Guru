@@ -13,5 +13,5 @@ Our creation for this year's Cutie Hack will be an app that is loosely based off
     * Memes
     * Physical Activities
 
-Hope you all enjoy! The app is hosted at: https://guptaraghav29.github.io/CutieHack2020/Topics.html
+Hope you all enjoy! The app is hosted at: https://guptaraghav29.github.io/CutieHack2020
 
