@@ -1,0 +1,38 @@
+h1 {
+    text-align: center;
+    font-family: 'Anton';
+    font-size: 100px;
+    color: #DB1DBE;
+}
+
+table, th, td {
+  border: 1px solid black;
+  text-align: center;
+  align-items: center;
+  border-collapse: collapse;
+}
+
+body {
+  background-color: #EFBB11;
+  text-align: center;
+}
+
+p {
+  font-family: 'Gelasio';
+}
+
+h4 {
+  font-family: 'Fredoka One';
+  color: #C91851;
+}
+
+h2 {
+  font-family: 'Fredoka One';
+  color: #18ACBB;
+  text-align: center;
+}
+
+h3 {
+  font-family: 'Fredoka One';
+  color:#139319;
+}
